@@ -1,0 +1,110 @@
+*{
+    
+    scroll-behavior: smooth;
+}
+#top{
+background-image: url(/Image/background3.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+overflow: hidden;
+padding-bottom: 300px;
+}
+.myName{
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+.myImg{
+    padding-top:20px;
+    width: 100px;
+    border-radius: 100%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.aboutMe{
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.top-container{
+    text-align: center;  
+}
+.nav-item {
+    padding-right: 50px;
+    padding-top: 20px;
+}
+.navbar-brand{padding-top: 20px;
+    padding-left:10px;
+    
+}
+
+#middle{
+    background-image: url(/Image/background2.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+overflow: hidden;
+padding-bottom: 300px;
+
+}
+
+
+.My-skills{
+    text-align: center;
+    color: white;
+    padding-top: 22px;
+    padding-bottom: 50px;
+    
+}
+.pcgif{
+    padding-top:20px;
+    width: 300px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.feature-box{
+    text-align: center;
+    padding-top: 10%;
+    color: white;
+}
+.press-logo{
+    border-radius: 200%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.projectgif{
+    padding-top:20px;
+    width:200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.project-text{
+    text-align: center;
+    padding-top: 10%;
+    color: white;
+    
+}
+#project{
+    background-image: url(/Image/background3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    
+
+}
+
+.contact-me{
+   background-color: teal;
+    padding-left: 30%;
+    padding-top: 30%;
+    color: white;
+    padding-bottom: 15%;
+}
+.btn{
+    margin: 5px;
+}
